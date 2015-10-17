@@ -1,0 +1,7 @@
+[user]
+	name = Ken Wakita
+	email = wakita@is.titech.ac.jp
+[branch]
+	autosetuprebase = always
+[core]
+	autocrlf = true
